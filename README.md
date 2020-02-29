@@ -1,8 +1,9 @@
-# C-Daily
+# C++-Daily
 C++ Daily Programming Challenges
 Every few days I am attempting to write a code in C++ to solve a challenge from the subreddit https://www.reddit.com/r/dailyprogrammer/
 
 Current Catalogue of Challenges:
+
 	1. Yahtzee https://www.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/
 		This challenge is to write a code that will calculate the highest score possible from 5 rolls of a 6 sided Die.
 		Currently Code Status: Successful
